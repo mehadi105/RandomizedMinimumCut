@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "__config": "cpp",
+        "queue": "cpp",
+        "random": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "version": "cpp"
+    }
+}
